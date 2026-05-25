@@ -1,0 +1,8 @@
+{
+    "name": "cloudutils-service",
+    "version": "1.0.629",
+    "private": false,
+    "environment": "production",
+    "build_id": 744,
+    "allow_public_access": true
+}
